@@ -1,5 +1,5 @@
 #include<stdio.h>
-//Naveen[192211578]
+//Naveen[192211578].
 int main()
 {
     int c, first, last, middle, n, search, array[100];
