@@ -1,5 +1,5 @@
 #include<stdio.h>  
-//Naveen[192211578]
+//Naveen[192211578].
 int main()    
 {    
  int i,fact=1,number;    
