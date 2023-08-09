@@ -1,5 +1,6 @@
 #include<stdio.h>    
 #include<stdlib.h>  
+//Naveen[192211578]
 int main(){  
 int a[10][10],b[10][10],mul[10][10],r,c,i,j,k;    
 system("cls");  
