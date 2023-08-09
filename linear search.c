@@ -1,5 +1,5 @@
 #include<stdio.h>
-//chittemcharankumaran[192211588]//
+//Naveen[192211578]
 int main()
 {
     int c, first, last, middle, n, search, array[100];
