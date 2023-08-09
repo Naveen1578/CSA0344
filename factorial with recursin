@@ -1,5 +1,5 @@
 #include<stdio.h>  
- //Naveen[192211578] 
+ //Naveen[192211578].
 long factorial(int n)  
 {  
   if (n == 0)  
